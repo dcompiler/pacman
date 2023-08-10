@@ -1,5 +1,15 @@
 # pacman
 
+Used in the work reported in the following papers:
+
+Jacob Brock, Xiaoming Gu, Bin Bao, Chen Ding:
+Pacman: program-assisted cache management. ISMM 2013: 39-50
+
+Xiaoming Gu, Chen Ding:
+On the theory and potential of LRU-MRU collaborative cache management. ISMM 2011: 43-54
+
+# commits
+
 changeset:   2685:a53e0d0c71c1
 user:        Xiaoming Gu <xiaoming@cs.rochester.edu>
 date:        Mon Jul 02 15:50:10 2012 -0400
